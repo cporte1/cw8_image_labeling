@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479802543299",
+    "project_id": "image-la",
+    "storage_bucket": "image-la.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479802543299:android:40b6ac9c5e54e903b72676",
+        "android_client_info": {
+          "package_name": "com.example.cw8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedjBkwkX0jchKOUlqfnX9GotFzCMOEE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
